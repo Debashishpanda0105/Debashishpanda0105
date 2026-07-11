@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Debashish panda</h1>
+<h1 align="center">Hi , I'm Debashish panda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashishpanda0105&label=Profile%20views&color=0e75b6&style=flat" alt="debashishpanda0105" /> </p>
 
-- 🔭 I’m currently study in **centurion university**
+- 🔭 I have completed my mca from **centurion university**
 
-- 🌱 I’m currently learning **java,python,machine learing,c**
+- 🌱 I have analyst skill in  **python,machine learing,Tableau,Excel,powerBi,sql**
 
 - 🤝 I’m looking for help with **PYTHON**
 
