@@ -1,42 +1,201 @@
-<h1 align="center">Hi , I'm Debashish panda</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi 👋, I'm Debashish Panda</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debashishpanda0105&label=Profile%20views&color=0e75b6&style=flat" alt="debashishpanda0105" /> </p>
+<h3 align="center">
+Data Analyst | SQL Developer | Business Intelligence Enthusiast | Data Warehousing
+</h3>
 
-- 🔭 I have completed my mca from **centurion university**
-
-- 🌱 I have analyst skill in  **python,machine learing,Tableau,Excel,powerBi,sql**
-
-- 🤝 I’m looking for help with **PYTHON**
-
-- 📫 How to reach me **debashishpanda2002@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/debu panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debu panda" height="30" width="40" /></a>
-<a href="https://instagram.com/debu.panda.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debu.panda.z" height="30" width="40" /></a>
+<p align="center">
+Passionate about transforming raw data into meaningful insights through SQL, Power BI, Tableau, Excel, Python, and Data Warehousing.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=debashishpanda0105&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashishpanda0105&show_icons=true&locale=en&layout=compact" alt="debashishpanda0105" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debashishpanda0105&show_icons=true&locale=en" alt="debashishpanda0105" /></p>
+# 👨‍💻 About Me
 
-## Hi,I'M Debashish panda 👋
+- 🎓 MCA Graduate from **Centurion University**
+- 📊 Passionate about **Data Analytics, Business Intelligence, SQL Development, and Data Warehousing**
+- 💡 I enjoy solving real-world business problems using data and building scalable analytics solutions.
+- 🌱 Currently learning **Microsoft Fabric, Azure Data Engineering, and Advanced SQL**
+- 💬 Ask me about **SQL Server, Power BI, Tableau, Excel, Python, ETL, and Data Warehousing**
+- 📫 Reach me at **debupanda2002@gmail.com**
 
-<!--
-**Debashishpanda0105/Debashishpanda0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🚀 Featured Projects
 
-- 🔭 I’m currently studing in centurion university
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data Warehouse & Analytics Project
+
+Designed and developed a complete SQL Server Data Warehouse using the **Medallion Architecture (Bronze → Silver → Gold)**.
+
+**Skills Used**
+
+- SQL Server
+- ETL
+- Data Warehousing
+- Star Schema
+- Dimensional Modeling
+
+---
+
+### 📈 Social Media Engagement & Sentiment Analysis Dashboard
+
+Developed an interactive Tableau dashboard to analyze engagement metrics and audience sentiment across multiple social media platforms.
+
+**Skills Used**
+
+- Tableau
+- Data Visualization
+- Excel
+- Dashboard Design
+
+---
+
+### 📊 Marketing Analytics Dashboard
+
+Built an Excel dashboard using Power Query, Power Pivot, Pivot Tables, and KPI visualizations to monitor marketing campaign performance.
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 Data Analytics & BI
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+---
+
+## 🏗️ Data Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Warehousing-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Star%20Schema-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dimensional%20Modeling-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50"/>
+</a>
+
+<a href="https://learn.microsoft.com/sql/ssms/" target="_blank">
+<img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="50"/>
+</a>
+
+<a href="https://github.com/features/copilot" target="_blank">
+<img src="https://img.icons8.com/fluency/96/github.png" height="50"/>
+</a>
+
+
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debashishpanda0105&theme=tokyo-night" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/debashish-panda-308559266" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:debupanda2002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Debashishpanda0105" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Career Interests
+
+- 📊 Data Analyst
+- 📈 Business Intelligence Developer
+- 🗄️ SQL Developer
+- 🏗️ Data Engineer
+- 📉 Analytics Engineer
+
+---
+
+# 💡 Quote
+
+> **"Without data, you're just another person with an opinion."**  
+> — W. Edwards Deming
+
+---
+
+⭐ **Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
