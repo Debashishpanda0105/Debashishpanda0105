@@ -118,6 +118,10 @@ Built an Excel dashboard using Power Query, Power Pivot, Pivot Tables, and KPI v
 
 <p align="left">
 
+## 🛠️ Tools
+
+<p align="left">
+
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 </a>
@@ -146,9 +150,11 @@ Built an Excel dashboard using Power Query, Power Pivot, Pivot Tables, and KPI v
 <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="50"/>
 </a>
 
-<a href="https://github.com/features/copilot" target="_blank">
-<img src="https://img.icons8.com/fluency/96/github.png" height="50"/>
+<a href="https://www.databricks.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/databricks/FF3621" height="50"/>
 </a>
+
+</p>
 
 
 </p>
