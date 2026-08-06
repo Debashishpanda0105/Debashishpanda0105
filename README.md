@@ -54,9 +54,21 @@ Developed an interactive Tableau dashboard to analyze engagement metrics and aud
 
 ---
 
-### 📊 Marketing Analytics Dashboard
+### 📊 End-to-End Data Modeling in Power BI
 
-Built an Excel dashboard using Power Query, Power Pivot, Pivot Tables, and KPI visualizations to monitor marketing campaign performance.
+Designed and built a complete enterprise-style data model in Power BI following industry best practices. The project covers data preparation, star schema modeling, dimension and fact table design, naming standards, relationship management, Row-Level Security (RLS), DAX measures, validation, and GitHub project documentation.
+
+**Key Highlights**
+- ⭐ Star Schema Design
+- 📐 Fact & Dimension Modeling
+- 🔄 Power Query Data Transformation
+- 🏷️ Naming & Modeling Standards
+- 🔑 Primary & Surrogate Keys
+- 📅 Date Dimension
+- 📊 DAX Measures & KPIs
+- 🔒 Row-Level Security (RLS)
+- ✅ Data Validation & Best Practices
+- 📚 Complete Documentation
 
 ---
 
