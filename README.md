@@ -27,51 +27,115 @@ Passionate about transforming raw data into meaningful insights through SQL, Pow
 
 # 🚀 Featured Projects
 
-### 📊 Data Warehouse & Analytics Project
+### 📊 SQL Data Warehouse & Analytics Project
 
-Designed and developed a complete SQL Server Data Warehouse using the **Medallion Architecture (Bronze → Silver → Gold)**.
+Designed and developed an end-to-end **SQL Server Data Warehouse** using the **Medallion Architecture (Bronze → Silver → Gold)**.
+
+The project focuses on building a structured and analytics-ready data warehouse using dimensional modeling and a Star Schema.
+
+**Key Highlights**
+
+- ⭐ Bronze → Silver → Gold Architecture
+- 🗄️ SQL Server Data Warehouse
+- 🔄 ETL & Data Transformation
+- ⭐ Star Schema
+- 📐 Dimensional Modeling
+- 🔑 Fact & Dimension Tables
+- 🧹 Data Cleaning & Transformation
+- 📚 Data Warehouse Documentation
 
 **Skills Used**
 
 - SQL Server
+- SSMS
+- SQL
 - ETL
 - Data Warehousing
 - Star Schema
 - Dimensional Modeling
 
+
 ---
 
-### 📈 Social Media Engagement & Sentiment Analysis Dashboard
+### 🔎 SQL Exploratory Data Analysis & Business Insights Project
 
-Developed an interactive Tableau dashboard to analyze engagement metrics and audience sentiment across multiple social media platforms.
+Built an end-to-end **SQL Exploratory Data Analysis (EDA)** project on top of the Gold Layer of the Data Warehouse to analyze sales, customers, products, and business performance.
+
+The project progresses from basic data exploration to advanced analytical techniques and business-oriented reporting.
+
+**Analysis Covered**
+
+- 🔍 Database Exploration
+- 👥 Dimension Exploration
+- 📅 Date Exploration
+- 📊 Measure Exploration
+- 📈 Magnitude Analysis
+- 🏆 Ranking Analysis
+- ❓ Business Questions
+- 📈 Change-Over-Time Analysis
+- 🔄 Cumulative Analysis
+- 📊 Performance Analysis
+- 🥧 Part-to-Whole Analysis
+- 👥 Customer & Product Segmentation
+- 📋 Reporting Views
+
+**Key Highlights**
+
+- ⭐ Advanced SQL Analytics
+- 🔗 Joins & Aggregations
+- 📐 CTEs & Subqueries
+- 🪟 Window Functions
+- 🏆 ROW_NUMBER, RANK & DENSE_RANK
+- 📅 Date-Based Analysis
+- 📈 Running Totals & Trend Analysis
+- 🔄 Year-over-Year Performance Analysis
+- 📊 Business KPI Analysis
+- 📋 Customer, Product & Sales Reporting Views
 
 **Skills Used**
 
-- Tableau
-- Data Visualization
-- Excel
-- Dashboard Design
+- SQL Server
+- SSMS
+- SQL
+- Exploratory Data Analysis
+- Business Analytics
+- Window Functions
+- Data Segmentation
+- Business Reporting
+
 
 ---
 
-### 📊 End-to-End Data Modeling in Power BI
+### 📊 Power BI Data Modeling & Analytics Project
 
-Designed and built a complete enterprise-style data model in Power BI following industry best practices. The project covers data preparation, star schema modeling, dimension and fact table design, naming standards, relationship management, Row-Level Security (RLS), DAX measures, validation, and GitHub project documentation.
+Designed and developed a structured **Power BI data model** using industry-standard dimensional modeling practices.
+
+The project focuses on preparing data, designing a Star Schema, creating relationships between fact and dimension tables, and implementing security and analytical requirements.
 
 **Key Highlights**
+
 - ⭐ Star Schema Design
 - 📐 Fact & Dimension Modeling
 - 🔄 Power Query Data Transformation
-- 🏷️ Naming & Modeling Standards
+- 🏷️ Data Modeling & Naming Standards
 - 🔑 Primary & Surrogate Keys
 - 📅 Date Dimension
+- 🔗 Relationship Management
 - 📊 DAX Measures & KPIs
 - 🔒 Row-Level Security (RLS)
-- ✅ Data Validation & Best Practices
-- 📚 Complete Documentation
+- ✅ Data Validation
+- 📚 Project Documentation
 
----
+**Skills Used**
 
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Star Schema
+- Dimensional Modeling
+- Row-Level Security
+- Data Visualization
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
@@ -126,9 +190,6 @@ Designed and built a complete enterprise-style data model in Power BI following 
 
 ---
 
-## 🛠️ Tools
-
-<p align="left">
 
 ## 🛠️ Tools
 
